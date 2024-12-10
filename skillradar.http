@@ -1,0 +1,11 @@
+POST http://127.0.0.1:5000/user-progress
+Content-Type: application/json
+
+{
+  "user_name": "Sidiq Permana"
+}
+
+
+# "n_recommendations": 5,
+#  "n_neighbors": 5
+

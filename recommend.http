@@ -1,0 +1,10 @@
+POST http://127.0.0.1:5000/recommend
+Content-Type: application/json
+
+{
+  "skill": "Machine Learning, Data Science",
+  "language": "Python",
+  "github_username": "ricomessi"
+}
+
+#  "similarity_threshold": 0.1
